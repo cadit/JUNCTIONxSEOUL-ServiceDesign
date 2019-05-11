@@ -79,7 +79,7 @@ CADIT 서비스는 현금을 많이 보유할 수 있는 수익구조를 가지�
 CADITサービスは現金の多くを保持することができる収益構造を持っています。したがって、何もしなくても利子収益が生じます。より多くのお金が必要な場合、ユーザーの預金を利用して投資をみることができます。<br>
 
 4. If we take advantage of CADIT's high cash reserves and _Reserve Requirement System_, which is commonly used all over the world, you can expect much more profit from your loan service.<br>
-현금보유액이 많다는 CADIT의 장점과 전세계에서 공통으로 사용하는 _지급준비제도_를 활용한다면 대출서비스를 통해 훨씬 많은 수익을 기대할 수 있습니다.<br>
+현금보유액이 많다는 CADIT의 장점과 전세계에서 공통으로 사용하는 지급준비제도를 활용한다면 대출서비스를 통해 훨씬 많은 수익을 기대할 수 있습니다.<br>
 現金保有額が多いCADITの利点と、世界で共通に使用される支払準備制度を活用すれば融資サービスを介して、はるかに多くの利益を期待することができます。<br>
 [What is "Reserve Requirement System"?](https://ko.wikipedia.org/wiki/%EC%A7%80%EA%B8%89%EC%A4%80%EB%B9%84%EC%A0%9C%EB%8F%84)<br>
 [You can watch about "Reserve Requirement System"Documentary](https://youtu.be/0LYMTsj_eqc?t=1390)<br>
