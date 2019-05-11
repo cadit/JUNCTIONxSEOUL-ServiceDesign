@@ -98,7 +98,9 @@ CADITサービスは現金の多くを保持することができる収益構造
 ## What's API Used?
 
 ![Used API](https://raw.githubusercontent.com/cadit/JUNCTIONxSEOUL-Design/master/preview/Expla_7.jpg)
-
+**개발 상황에 따라서 변경된 내용이 있을 수도 있습니다. 이미지는 참고용으로 사용하세요.**<br>
+**There may be changes in development status. Please use the image for reference.**<br>
+**開発状況が変わる可能性があります。参考のために画像を使用してください。**<br>
 <br>
 ## The Rakuten API was used as follows:
 - [Nexmo SMS Messaging](https://english.api.rakuten.net/nexmo/api/nexmo-sms-messaging)
