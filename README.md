@@ -1,4 +1,4 @@
-##이 서비스는 창업을 할 수 있다는 가정하에 기획되었습니다. 만약 우리의 서비스모델에 관심이 있다면 연락주세요!<br><br>This service was designed with the assumption that you can start a business. If you are interested in our service model, please contact us!<br>_stopdragon@sharpzerosix.com_<br><br><br>
+## 이 서비스는 창업을 할 수 있다는 가정하에 기획되었습니다. 만약 우리의 서비스모델에 관심이 있다면 연락주세요!<br><br>This service was designed with the assumption that you can start a business. If you are interested in our service model, please contact us!<br>_stopdragon@sharpzerosix.com_<br><br><br>
 
 ![1](https://raw.githubusercontent.com/cadit/JUNCTIONxSEOUL-Design/master/preview/summary.png)
 <br><br><br>
@@ -18,7 +18,7 @@
 
 [[Try XD prototype]](https://xd.adobe.com/view/9e2297c0-5629-4993-70f3-aac812ec2d60-e813/?fullscreen&hints=off)
 <br><br><br>
-##Because the translator is used, the word order and the grammar may be wrong. If you do not understand anything, I will try my best to explain it.<br><br>翻訳機を使用したため、語順や語法が間違っていることがあります。理解していない部分は質問していただければ最善を尽くして説明しましょう。##
+## Because the translator is used, the word order and the grammar may be wrong. If you do not understand anything, I will try my best to explain it.<br><br>翻訳機を使用したため、語順や語法が間違っていることがあります。理解していない部分は質問していただければ最善を尽くして説明しましょう。
 <br><br><br>
 ## Survice introduction
 
