@@ -76,8 +76,7 @@ CADITサービスは現金の多くを保持することができる収益構造
 현금보유액이 많다는 CADIT의 장점과 전세계에서 공통으로 사용하는 지급준비제도를 활용한다면 대출서비스를 통해 훨씬 많은 수익을 기대할 수 있습니다.<br>
 現金保有額が多いCADITの利点と、世界で共通に使用される支払準備制度を活用すれば融資サービスを介して、はるかに多くの利益を期待することができます。<br>
 [What is "Reserve Requirement System"?](https://ko.wikipedia.org/wiki/%EC%A7%80%EA%B8%89%EC%A4%80%EB%B9%84%EC%A0%9C%EB%8F%84)<br>
-[You can watch about "Reserve Requirement System"Documentary]
-(https://youtu.be/0LYMTsj_eqc?t=1390)<br>
+[You can watch about "Reserve Requirement System"Documentary](https://youtu.be/0LYMTsj_eqc?t=1390)<br>
 
 4. In the future, we will find the bank APIs of each country and develop it as a service that can be used all over the world.<br>
 추후 각국의 은행 API를 찾아 전세계에서도 이용할 수 있는 서비스로 발전시킬것입니다.<br>
