@@ -129,27 +129,27 @@ CADITサービスは現金の多くを保持することができる収益構造
 
 ## Criteria
 - Inventiveness
-    ● Clear problem statement/how well the product/solution fit the problem.
-    ● How unique is your product/solution compared to existing competitors?
+    - Clear problem statement/how well the product/solution fit the problem.
+    - How unique is your product/solution compared to existing competitors?
 
 - Functionality
-    ● Does it work technically? 
-    ● Is the code well written? 
-    ● Bonus points for design and aesthetics. 
+    - Does it work technically? 
+    - Is the code well written? 
+    - Bonus points for design and aesthetics. 
 
 - API Power 
-    ● Did you use at least 3 APIs from Rakuten RapidAPI?
-    ● How did you leverage APIs in your application?
-    ● How well did you apply APIs to:
-        ○ Access data
-        ○ Provision functionality
-        ○ Leverage innovative technologies
+    - Did you use at least 3 APIs from Rakuten RapidAPI?
+    - How did you leverage APIs in your application?
+    - How well did you apply APIs to:
+        - Access data
+        - Provision functionality
+        - Leverage innovative technologies
 
 - Viability
-    ● Does your code scale in the real world?
-    ● Does your product/solution provide value for users?
+    - Does your code scale in the real world?
+    - Does your product/solution provide value for users?
 
 - Submissions
-    ● Submissions should be in the form of a functional application, ideally website or web app. 
-    ● Each submission must use at least 3 APIs from Rakuten RapidAPI.
+    - Submissions should be in the form of a functional application, ideally website or web app. 
+    - Each submission must use at least 3 APIs from Rakuten RapidAPI.
 
