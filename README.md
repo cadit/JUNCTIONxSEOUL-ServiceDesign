@@ -94,7 +94,7 @@ CADITサービスは現金の多くを保持することができる収益構造
 
 ![FP](https://raw.githubusercontent.com/cadit/JUNCTIONxSEOUL-Design/master/preview/Expla_6.jpg)
 
-## What's API Used?
+## Which API Used?
 
 ![Used API](https://raw.githubusercontent.com/cadit/JUNCTIONxSEOUL-Design/master/preview/Expla_7.jpg)
 **개발 상황에 따라서 변경된 내용이 있을 수도 있습니다. 이미지는 참고용으로 사용하세요.**<br>
