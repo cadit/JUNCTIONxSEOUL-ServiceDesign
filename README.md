@@ -88,7 +88,6 @@ CADITサービスは現金の多くを保持することができる収益構造
 추후 각국의 은행 API를 찾아 전세계에서도 이용할 수 있는 서비스로 발전시킬것입니다.<br>
 今後、各国の銀行のAPIを探して世界中で利用できるサービスとして発展させることです。<br>
 
-
 ![RM](https://raw.githubusercontent.com/cadit/JUNCTIONxSEOUL-Design/master/preview/Expla_5.jpg)
 
 <br>
