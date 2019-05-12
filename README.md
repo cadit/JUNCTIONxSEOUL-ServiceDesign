@@ -20,7 +20,9 @@
 
 [[Try XD prototype]](https://xd.adobe.com/view/9e2297c0-5629-4993-70f3-aac812ec2d60-e813/?fullscreen&hints=off)
 <br><br><br>
-## Because the translator is used, the word order and the grammar may be wrong. If you do not understand anything or something, I will try my best to explain it and undertanding you.<br><br>翻訳機を使用したため、語順や語法が間違っていることがあります。理解していない部分は質問していただければ最善を尽くして説明しましょう。
+## Because the translator is used, the word order and the grammar may be wrong. If you do not understand anything or something, I will try my best to explain it and undertanding you.
+<br>
+## 翻訳機を使用したため、語順や語法が間違っていることがあります。理解していない部分は質問していただければ最善を尽くして説明しましょう。
 <br><br><br>
 ## Survice introduction
 
