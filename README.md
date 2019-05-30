@@ -1,4 +1,3 @@
-**JUNCTIONxSEOUL 2019 HACKATHON**<br>
 **Date: 2019.05.10 ~ 12 (3days)**<br>
 ## 이 서비스는 창업을 할 수 있다는 가정하에 기획되었습니다. 만약 우리의 서비스모델에 관심이 있다면 연락주세요!<br><br>This service was designed with the assumption that you can start a business. If you are interested in our service model, please contact us!<br>_stopdragon@sharpzerosix.com_<br><br><br>
 
